@@ -1,4 +1,4 @@
-#Google Homepage
+Google Homepage
 
 This is just a frontend project on the google homepage to practice my html and css 
 This idea is from the odin project.
